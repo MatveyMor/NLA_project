@@ -7,4 +7,4 @@ Models weigths before compression: https://drive.google.com/drive/folders/1x8tap
 
 Models weights after compression: https://drive.google.com/drive/folders/1BTWca41Hct27mPKiAdldz5HQ_tE22e0p
 
-Models weights after fine-tuning:
+Models weights after fine-tuning: https://drive.google.com/drive/folders/1xQs6bqRRo0biSLQowbaU93a-0fgrGmVT
