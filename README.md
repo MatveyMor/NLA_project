@@ -1,7 +1,9 @@
 # NLA_project
 **Numerical Linear Algebra Final Project**
 
-**Team members:** Anna Klyueva, Ilya Nachinkin, Matvey Morozov. 
+**Team members:** Anna Klyueva, Ilya Nachinkin, Matvey Morozov.
+
+Experiments was conducted on **CIFAR10** dataset.
 
 | Model  | Compressed Ratio | Accuracy before | Accuracy after | Accuracy fine-tune | 
 | :--- | :---: | :---: | :---: | ---: |
