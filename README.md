@@ -1,5 +1,7 @@
 # NLA_project
-Numerical Linear Algebra Final Project
+**Numerical Linear Algebra Final Project**
+
+**Team members:** Anna Klyueva, Ilya Nachinkin, Matvey Morozov. 
 
 | Model  | Compressed Ratio | Accuracy before | Accuracy after | Accuracy fine-tune | 
 | :--- | :---: | :---: | :---: | ---: |
